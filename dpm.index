@@ -1,0 +1,8 @@
+- packagename: base-cluster
+  version: 0.1.0
+  filename: base-cluster_0.1.0-do.dpm
+  hash: 2a1c091d8d11a4c3dec351180a42bad49ede2ff43dc7219ef0f4121a73a187c3
+- packagename: consul-discovery
+  version: 0.1.0
+  filename: consul-discovery_0.1.0-do.dpm
+  hash: 390a362fcf9d3e3166fb5ef83e3ed8393f127249e4a91f065ff80c806abf79f7
